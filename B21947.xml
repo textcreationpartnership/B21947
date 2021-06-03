@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament for the raising of all power and force, as well trained bands as others, in severall counties of this kingdom : to lead against all traytors, and their adherents : and them to arrest and imprison, and to fight with, kill, and slay all such as shall oppose any of His Majesties loving subjects that shall be imployed in this service, by either or both Houses of Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21947</idno><idno type="EEBO-CITATION">12272608</idno>
+  <idno type="VID">197437</idno>
+  <idno type="EEBO-PROQUEST">2240970149</idno>
+  
+            <idno type="STC">Wing E1423</idno>
+            <idno type="OCLC">12272608</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197437)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E109, no 30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament for the raising of all power and force, as well trained bands as others, in severall counties of this kingdom : to lead against all traytors, and their adherents : and them to arrest and imprison, and to fight with, kill, and slay all such as shall oppose any of His Majesties loving subjects that shall be imployed in this service, by either or both Houses of Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands, and Iohn Franck,</publisher>
+                  <pubPlace>... London :</pubPlace>
+                  <date>August 9, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197437:1"/>
+            <pb facs="tcp:197437:1"/>
+            <p> A DECLARATION Of the Lords and Commons Assembled in PARLIAMENT, For the raising of all power, and force, as well Trained Bands as others, in severall Counties of this Kingdom, to lead against all Traytors, and their adherents, and them to arrest and imprison, and to fight with, kill, and slay all such as shall oppose any of His Majesties loving Subjects that shall be imployed in this service, by either or both Houses of PARLIAMENT.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this Declaration be forthwith Printed, </p>
+                        <closer>
+                           <signed>Hen. Elsinge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>August</hi> 9.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husbands,</hi> and <hi>Iohn Franck.</hi> 1642.</p>
+            <pb facs="tcp:197437:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="3" facs="tcp:197437:2"/>
+            <head>A Declaration of both Houses of PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas certain Informati<g ref="char:EOLhyphen"/>on is given from severall parts of the Kingdom, That divers Troops of Horse are imployed in sundry Counties of the Kingdom; and that o<g ref="char:EOLhyphen"/>thers have Commission to raise both Horse and Foot, to compell His Majesties Sub<g ref="char:EOLhyphen"/>jects to submit to the illegall Commission of Array, out of a Trayterous intent, to sub<g ref="char:EOLhyphen"/>vert the liberty of the Subject, and the Law of the Kingdom; And for the better strengthning themselves in this wicked at<g ref="char:EOLhyphen"/>tempt, Do joyn with the Popish and Jesui<g ref="char:EOLhyphen"/>ticall faction, to put the Kingdom into a
+<pb n="4" facs="tcp:197437:3"/> combustion and civill warre, by levying forces against the Parliament, and by those forces to alter the Religion, and the anci<g ref="char:EOLhyphen"/>ent Government, and lawfull liberty of the Kingdom, and to introduce Popery and Idolatry, together with an Arbitrary form of Government: And in persuance thereof, have traiterously and rebelliously, levyed warre against the King, and by force, robbed, spoiled, and slain, divers of His Majesties good Subjects, travelling about their lawfull and necessary occa<g ref="char:EOLhyphen"/>sions in the Kings protection according to Law, and namely that for the end and purpose aforesaid, That Earle of <hi>North<g ref="char:EOLhyphen"/>ampton,</hi> the Lord <hi>Dunsmore,</hi> Lord <hi>Will<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ughby</hi> of <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>risby</hi> son to the Earle of <hi>Lindsey, Henry Hastings</hi> Esq; and divers other unknowne persons in the Counties of <hi>Lincolne, Notting<g ref="char:EOLhyphen"/>ham, Leicester, Warwick, Oxfordshire,</hi> and other places, and the Marquesse of <hi>Hertford,</hi> the Lord <hi>Pawlet,</hi> Lord <hi>Seymore,</hi> Sir <hi>John Sta<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell,</hi> Sir <hi>Ralph Hopton, John Digby</hi> Esq; &amp; other their Accomplices have gotten toge<g ref="char:EOLhyphen"/>ther great forces in the County of <hi>Somerset.</hi>
+            </p>
+            <pb n="5" facs="tcp:197437:3"/>
+            <p> The Lords and Commons duely con<g ref="char:EOLhyphen"/>sidering the great dangers which may ensue upon such their wicked and Traiterous de<g ref="char:EOLhyphen"/>signes; And if by this meanes the power of the Sword should come into the hands of Papists and their Adherents, nothing can be expected but the miserable ruine and deso<g ref="char:EOLhyphen"/>lation of the Kingdome, and the bloody Massacre of the Protestants.</p>
+            <p>They doe Declare and Ordaine, That it is and shall be lawfull for all His Majesties loving Subjects, by force of Armes, to resist the said severall Parties &amp; their accomplices, and all other that shall raise or conduct any other Forces for the ends aforesaid. And that the Earle of <hi>Essex,</hi> Lord Generall, with all his Forces raised by the authority of Par<g ref="char:EOLhyphen"/>liament, As likewise the Lord <hi>Say</hi> Lievte<g ref="char:EOLhyphen"/>nant of <hi>Oxfordshire,</hi> Earle of <hi>Peterborough</hi> Lievtenant of <hi>Northamptonshire,</hi> Lord <hi>Wharton</hi> Lievtenant of <hi>Buckinghamshiere,</hi> Earle of <hi>Stamford</hi> Lievtenant of <hi>Leicester<g ref="char:EOLhyphen"/>shiere,</hi> Earle of <hi>Pembrooke</hi> Lievtenant of <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iltsshire</hi> and <hi>Hampshire,</hi> Earle of <hi>Bedford</hi> Lievtenant of <hi>Somersetshire</hi> and <hi>Devon,</hi>
+               <pb n="6" facs="tcp:197437:4"/> Lord <hi>Brook</hi> Lievtenant of <hi>Warwickshiere,</hi> the Lord <hi>Cranborne</hi> Lievtenant of <hi>Dorset<g ref="char:EOLhyphen"/>shiere,</hi> the Lord <hi>Willoughby</hi> of <hi>Parham</hi> Liev<g ref="char:EOLhyphen"/>tenant of <hi>Lincolnshire,</hi> and their Deputy Lievtenants respectively, and all those who are, or shall be appointed by Ordi<g ref="char:EOLhyphen"/>nance of both Houses, to perform the place of Deputie Lievtenants; <hi>Densill Hollis</hi> Esquire, Lievtenant of the City and County of <hi>Bristoll,</hi> and the Majors and Cheriffs of the City, and Deputy-Lievte<g ref="char:EOLhyphen"/>nants there, and all other Lievtenants of Counties, Sheriffs, Majors, Deputy-Lievte<g ref="char:EOLhyphen"/>nants shall raise all the power and forces of their severall Counties, aswell Trayned Bands as others, And shall have power to Conduct and leade the said Forces of the said Counties, against the said Traytors and their Adherents, and with them to fight, kill, and slay all such as by force shall op<g ref="char:EOLhyphen"/>pose them; and the persons of the said Traitors and their Adherents and Accom<g ref="char:EOLhyphen"/>plices to arrest and imprison, and them to bring up to the Parliament, to answer this their Traiterous and Rebellious attempts
+<pb n="7" facs="tcp:197437:4"/> according to Law, and the same, or any o<g ref="char:EOLhyphen"/>ther Forces, to transport and conduct from one County to another in aide and assi<g ref="char:EOLhyphen"/>stance one of another, and of all others that shall joyne with the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament for the defence of the Religion of Almighty GOD, and of the Li<g ref="char:EOLhyphen"/>berties and peace of the Kingdome, and in pursuit of those wicked and Rebellious Traitors, their Conspirators, Ayde<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Abettors and Adherents: Requiring all Lievtenants of Counties, Sheriffs, Majors, Justices of Peace and others His Majesties Officers and loving Subjects to be ayding and assisting to one another, in the executi<g ref="char:EOLhyphen"/>on hereof, and for their so doing all the the parties above mentioned; and all others that shall joyn with them, shall be justified, desended, and secured by the power and authority of Parliament.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:197437:5"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lunae, Aug.</hi> 8. 1642.</date>
+               </dateline>
+            </opener>
+            <p>Ordered that this Declaration be forth<g ref="char:EOLhyphen"/>with Printed and Published.</p>
+            <closer>
+               <signed>Hen. Elsinge, Cler. Parl D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
